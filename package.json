@@ -1,0 +1,14 @@
+{
+  "name": "ci-cd-nodejs-docker",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to demonstrate CI/CD using Docker and GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kunal K Thalautiya",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
